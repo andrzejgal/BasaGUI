@@ -1,0 +1,10 @@
+19-01-2019
+To interface 
+public interface  ExceptionDescription {
+    static boolean ExceptionDescription=true;
+       
+}
+usunąć razem z plikiem. Taką stałą można ulokować w globals.
+
+W przyszłości usunąć ParentClass, która zawiera tylko ExceptionHandler.
+Może potrzebny jest taki Handler, ale nie w taki sposób zorganizowany.

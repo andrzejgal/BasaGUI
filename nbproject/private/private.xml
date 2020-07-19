@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="3">
+        <file>
+            <url>src/DataBasePackage/DAO.java</url>
+            <bookmark id="1">
+                <name/>
+                <line>288</line>
+                <key/>
+            </bookmark>
+        </file>
+        <file>
+            <url>src/pCheckReadLabels/ReadLabelsList1.java</url>
+            <bookmark id="3">
+                <name/>
+                <line>186</line>
+                <key/>
+            </bookmark>
+            <bookmark id="2">
+                <name/>
+                <line>299</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/BasaRFIDGUI/BasaGUI/src/pGlobals/globals.java</file>
+            <file>file:/C:/BasaRFIDGUI/BasaGUI/src/pServers/SingleThreadedServer.java</file>
+            <file>file:/C:/BasaRFIDGUI/BasaGUI/src/pDataBase1/StaticConnectToDatabase.java</file>
+            <file>file:/C:/BasaRFIDGUI/BasaGUI/src/pMainWindow/Okno.java</file>
+            <file>file:/C:/BasaRFIDGUI/BasaGUI/src/pCheckReadLabels/ReadLabelsList.java</file>
+            <file>file:/C:/BasaRFIDGUI/BasaGUI/src/pDataBase1/DAOfunctions.java</file>
+            <file>file:/C:/BasaRFIDGUI/BasaGUI/src/pDataBase1/DaoInterface.java</file>
+            <file>file:/C:/BasaRFIDGUI/BasaGUI/src/pDataBase1/DataBaseTypesEnum.java</file>
+        </group>
+    </open-files>
+</project-private>

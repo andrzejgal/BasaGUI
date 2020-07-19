@@ -1,0 +1,2 @@
+pMainWindow.MyTimerActionListener
+pMainWindow.Okno
