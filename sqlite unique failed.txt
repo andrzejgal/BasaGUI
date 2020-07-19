@@ -1,0 +1,1 @@
+df = (java.lang.String) "org.sqlite.SQLiteException: [SQLITE_CONSTRAINT_UNIQUE]  A UNIQUE constraint failed (UNIQUE constraint failed: etykiety.EPC)"

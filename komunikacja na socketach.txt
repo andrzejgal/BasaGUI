@@ -1,0 +1,3 @@
+https://github.com/bierus/Chat
+http://uranos.cto.us.edu.pl/~dendzik/java/i4/index.html
+https://www.baeldung.com/a-guide-to-java-sockets   bardzo ladnie opisuje podstawy

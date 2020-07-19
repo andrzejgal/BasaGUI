@@ -1,0 +1,881 @@
+22/04/2019 07:32:28.690 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:32:28.690 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:32:28.690 PM - [DatabaseLogger][pDataBase1.DAOfunctions.CreateTable] - [FINER] - ENTRY
+22/04/2019 07:32:28.721 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:32:28.721 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:32:28.721 PM - [MainWindowLogger][Okno.Main] - [FINEST] - Reading EPC thread has started
+22/04/2019 07:32:28.721 PM - [MainWindowLogger][Okno.Main] - [FINEST] - Writing EPC thread has started
+22/04/2019 07:32:28.737 PM - [MainWindowLogger][Okno.Main] - [FINEST] - Finally wyjście
+22/04/2019 07:32:28.939 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - ENTRY
+22/04/2019 07:32:28.955 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:32:28.955 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:32:29.033 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - RETURN
+22/04/2019 07:32:29.033 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - Zwalniam Connection cnn  w funkcji writeDataBaseToTable
+22/04/2019 07:32:29.251 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - ENTRY
+22/04/2019 07:32:29.298 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:32:29.298 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:32:29.314 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - RETURN
+22/04/2019 07:32:29.314 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - Zwalniam Connection cnn  w funkcji writeDataBaseToTable
+22/04/2019 07:32:29.766 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - ENTRY
+22/04/2019 07:32:29.782 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:32:29.782 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:32:29.782 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - RETURN
+22/04/2019 07:32:29.782 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - Zwalniam Connection cnn  w funkcji writeDataBaseToTable
+22/04/2019 07:32:30.281 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - ENTRY
+22/04/2019 07:32:30.297 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:32:30.297 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:32:30.297 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - RETURN
+22/04/2019 07:32:30.297 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - Zwalniam Connection cnn  w funkcji writeDataBaseToTable
+22/04/2019 07:32:30.796 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - ENTRY
+22/04/2019 07:32:30.811 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:32:30.811 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:32:30.811 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - RETURN
+22/04/2019 07:32:30.811 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - Zwalniam Connection cnn  w funkcji writeDataBaseToTable
+22/04/2019 07:32:31.297 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - ENTRY
+22/04/2019 07:32:31.297 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:32:31.297 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:32:31.313 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - RETURN
+22/04/2019 07:32:31.313 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - Zwalniam Connection cnn  w funkcji writeDataBaseToTable
+22/04/2019 07:32:31.812 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - ENTRY
+22/04/2019 07:32:31.812 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:32:31.812 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:32:31.828 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - RETURN
+22/04/2019 07:32:31.828 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - Zwalniam Connection cnn  w funkcji writeDataBaseToTable
+22/04/2019 07:32:32.327 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - ENTRY
+22/04/2019 07:32:32.327 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:32:32.327 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:32:32.343 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - RETURN
+22/04/2019 07:32:32.343 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - Zwalniam Connection cnn  w funkcji writeDataBaseToTable
+22/04/2019 07:32:32.827 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - ENTRY
+22/04/2019 07:32:32.843 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:32:32.843 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:32:32.843 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - RETURN
+22/04/2019 07:32:32.843 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - Zwalniam Connection cnn  w funkcji writeDataBaseToTable
+22/04/2019 07:32:33.342 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - ENTRY
+22/04/2019 07:32:33.342 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:32:33.342 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:32:33.342 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - RETURN
+22/04/2019 07:32:33.358 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - Zwalniam Connection cnn  w funkcji writeDataBaseToTable
+22/04/2019 07:32:33.857 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - ENTRY
+22/04/2019 07:32:33.857 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:32:33.857 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:32:33.872 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - RETURN
+22/04/2019 07:32:33.872 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - Zwalniam Connection cnn  w funkcji writeDataBaseToTable
+22/04/2019 07:32:34.372 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - ENTRY
+22/04/2019 07:32:34.387 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:32:34.387 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:32:34.387 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - RETURN
+22/04/2019 07:32:34.387 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - Zwalniam Connection cnn  w funkcji writeDataBaseToTable
+22/04/2019 07:32:34.886 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - ENTRY
+22/04/2019 07:32:34.902 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:32:34.902 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:32:34.902 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - RETURN
+22/04/2019 07:32:34.918 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - Zwalniam Connection cnn  w funkcji writeDataBaseToTable
+22/04/2019 07:32:35.401 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - ENTRY
+22/04/2019 07:32:35.432 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:32:35.432 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:32:35.448 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - RETURN
+22/04/2019 07:32:35.448 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - Zwalniam Connection cnn  w funkcji writeDataBaseToTable
+22/04/2019 07:32:35.916 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - ENTRY
+22/04/2019 07:32:35.932 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:32:35.932 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:32:35.932 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - RETURN
+22/04/2019 07:32:35.932 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - Zwalniam Connection cnn  w funkcji writeDataBaseToTable
+22/04/2019 07:32:36.431 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - ENTRY
+22/04/2019 07:32:36.431 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:32:36.431 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:32:36.446 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - RETURN
+22/04/2019 07:32:36.446 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - Zwalniam Connection cnn  w funkcji writeDataBaseToTable
+22/04/2019 07:32:36.946 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - ENTRY
+22/04/2019 07:32:36.946 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:32:36.946 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:32:36.961 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - RETURN
+22/04/2019 07:32:36.961 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - Zwalniam Connection cnn  w funkcji writeDataBaseToTable
+22/04/2019 07:32:37.460 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - ENTRY
+22/04/2019 07:32:37.460 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:32:37.460 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:32:37.476 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - RETURN
+22/04/2019 07:32:37.476 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - Zwalniam Connection cnn  w funkcji writeDataBaseToTable
+22/04/2019 07:32:37.975 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - ENTRY
+22/04/2019 07:32:37.975 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:32:37.975 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:32:37.975 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - RETURN
+22/04/2019 07:32:37.975 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - Zwalniam Connection cnn  w funkcji writeDataBaseToTable
+22/04/2019 07:32:38.490 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - ENTRY
+22/04/2019 07:32:38.506 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:32:38.506 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:32:38.506 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - RETURN
+22/04/2019 07:32:38.506 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - Zwalniam Connection cnn  w funkcji writeDataBaseToTable
+22/04/2019 07:32:39.005 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - ENTRY
+22/04/2019 07:32:39.005 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:32:39.005 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:32:39.020 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - RETURN
+22/04/2019 07:32:39.020 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - Zwalniam Connection cnn  w funkcji writeDataBaseToTable
+22/04/2019 07:32:39.520 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - ENTRY
+22/04/2019 07:32:39.520 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:32:39.520 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:32:39.535 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - RETURN
+22/04/2019 07:32:39.535 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - Zwalniam Connection cnn  w funkcji writeDataBaseToTable
+22/04/2019 07:32:40.034 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - ENTRY
+22/04/2019 07:32:40.050 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:32:40.050 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:32:40.050 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - RETURN
+22/04/2019 07:32:40.050 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - Zwalniam Connection cnn  w funkcji writeDataBaseToTable
+22/04/2019 07:32:40.549 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - ENTRY
+22/04/2019 07:32:40.549 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:32:40.549 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:32:40.565 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - RETURN
+22/04/2019 07:32:40.565 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - Zwalniam Connection cnn  w funkcji writeDataBaseToTable
+22/04/2019 07:32:41.064 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - ENTRY
+22/04/2019 07:32:41.064 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:32:41.064 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:32:41.064 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - RETURN
+22/04/2019 07:32:41.064 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - Zwalniam Connection cnn  w funkcji writeDataBaseToTable
+22/04/2019 07:32:41.579 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - ENTRY
+22/04/2019 07:32:41.579 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:32:41.579 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:32:41.579 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - RETURN
+22/04/2019 07:32:41.579 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - Zwalniam Connection cnn  w funkcji writeDataBaseToTable
+22/04/2019 07:32:42.094 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - ENTRY
+22/04/2019 07:32:42.094 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:32:42.094 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:32:42.094 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - RETURN
+22/04/2019 07:32:42.109 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - Zwalniam Connection cnn  w funkcji writeDataBaseToTable
+22/04/2019 07:32:42.608 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - ENTRY
+22/04/2019 07:32:42.624 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:32:42.624 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:32:42.624 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - RETURN
+22/04/2019 07:32:42.624 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - Zwalniam Connection cnn  w funkcji writeDataBaseToTable
+22/04/2019 07:32:43.123 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - ENTRY
+22/04/2019 07:32:43.123 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:32:43.123 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:32:43.139 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - RETURN
+22/04/2019 07:32:43.139 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - Zwalniam Connection cnn  w funkcji writeDataBaseToTable
+22/04/2019 07:32:43.638 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - ENTRY
+22/04/2019 07:32:43.638 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:32:43.638 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:32:43.654 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - RETURN
+22/04/2019 07:32:43.654 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - Zwalniam Connection cnn  w funkcji writeDataBaseToTable
+22/04/2019 07:32:44.153 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - ENTRY
+22/04/2019 07:32:44.153 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:32:44.153 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:32:44.153 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - RETURN
+22/04/2019 07:32:44.168 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - Zwalniam Connection cnn  w funkcji writeDataBaseToTable
+22/04/2019 07:32:44.668 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - ENTRY
+22/04/2019 07:32:44.668 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:32:44.668 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:32:44.683 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - RETURN
+22/04/2019 07:32:44.683 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - Zwalniam Connection cnn  w funkcji writeDataBaseToTable
+22/04/2019 07:32:45.182 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - ENTRY
+22/04/2019 07:32:45.182 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:32:45.182 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:32:45.198 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - RETURN
+22/04/2019 07:32:45.198 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - Zwalniam Connection cnn  w funkcji writeDataBaseToTable
+22/04/2019 07:32:45.697 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - ENTRY
+22/04/2019 07:32:45.713 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:32:45.713 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:32:45.713 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - RETURN
+22/04/2019 07:32:45.713 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - Zwalniam Connection cnn  w funkcji writeDataBaseToTable
+22/04/2019 07:32:46.212 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - ENTRY
+22/04/2019 07:32:46.243 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:32:46.243 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:32:46.243 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - RETURN
+22/04/2019 07:32:46.243 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - Zwalniam Connection cnn  w funkcji writeDataBaseToTable
+22/04/2019 07:32:46.727 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - ENTRY
+22/04/2019 07:32:46.727 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:32:46.727 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:32:46.727 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - RETURN
+22/04/2019 07:32:46.727 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - Zwalniam Connection cnn  w funkcji writeDataBaseToTable
+22/04/2019 07:32:47.242 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - ENTRY
+22/04/2019 07:32:47.257 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:32:47.257 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:32:47.273 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - RETURN
+22/04/2019 07:32:47.273 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - Zwalniam Connection cnn  w funkcji writeDataBaseToTable
+22/04/2019 07:32:47.756 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - ENTRY
+22/04/2019 07:32:47.756 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:32:47.756 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:32:47.772 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - RETURN
+22/04/2019 07:32:47.772 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - Zwalniam Connection cnn  w funkcji writeDataBaseToTable
+22/04/2019 07:32:48.271 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - ENTRY
+22/04/2019 07:32:48.271 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:32:48.271 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:32:48.287 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - RETURN
+22/04/2019 07:32:48.287 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - Zwalniam Connection cnn  w funkcji writeDataBaseToTable
+22/04/2019 07:32:48.786 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - ENTRY
+22/04/2019 07:32:48.833 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:32:48.833 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:32:48.833 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - RETURN
+22/04/2019 07:32:48.833 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - Zwalniam Connection cnn  w funkcji writeDataBaseToTable
+22/04/2019 07:32:49.301 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - ENTRY
+22/04/2019 07:32:49.316 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:32:49.316 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:32:49.316 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - RETURN
+22/04/2019 07:32:49.316 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - Zwalniam Connection cnn  w funkcji writeDataBaseToTable
+22/04/2019 07:32:49.816 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - ENTRY
+22/04/2019 07:32:49.816 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:32:49.816 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:32:49.831 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - RETURN
+22/04/2019 07:32:49.831 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - Zwalniam Connection cnn  w funkcji writeDataBaseToTable
+22/04/2019 07:32:50.330 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - ENTRY
+22/04/2019 07:32:50.330 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:32:50.330 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:32:50.346 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - RETURN
+22/04/2019 07:32:50.346 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - Zwalniam Connection cnn  w funkcji writeDataBaseToTable
+22/04/2019 07:32:50.845 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - ENTRY
+22/04/2019 07:32:50.861 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:32:50.861 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:32:50.861 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - RETURN
+22/04/2019 07:32:50.861 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - Zwalniam Connection cnn  w funkcji writeDataBaseToTable
+22/04/2019 07:32:51.360 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - ENTRY
+22/04/2019 07:32:51.376 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:32:51.376 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:32:51.376 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - RETURN
+22/04/2019 07:32:51.376 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - Zwalniam Connection cnn  w funkcji writeDataBaseToTable
+22/04/2019 07:32:51.875 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - ENTRY
+22/04/2019 07:32:51.875 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:32:51.875 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:32:51.890 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - RETURN
+22/04/2019 07:32:51.890 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - Zwalniam Connection cnn  w funkcji writeDataBaseToTable
+22/04/2019 07:32:52.390 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - ENTRY
+22/04/2019 07:32:52.390 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:32:52.390 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:32:52.390 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - RETURN
+22/04/2019 07:32:52.390 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - Zwalniam Connection cnn  w funkcji writeDataBaseToTable
+22/04/2019 07:32:52.904 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - ENTRY
+22/04/2019 07:32:52.904 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:32:52.904 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:32:52.904 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - RETURN
+22/04/2019 07:32:52.904 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - Zwalniam Connection cnn  w funkcji writeDataBaseToTable
+22/04/2019 07:32:53.419 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - ENTRY
+22/04/2019 07:32:53.466 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:32:53.466 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:32:53.466 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - RETURN
+22/04/2019 07:32:53.466 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - Zwalniam Connection cnn  w funkcji writeDataBaseToTable
+22/04/2019 07:32:53.934 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - ENTRY
+22/04/2019 07:32:53.950 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:32:53.950 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:32:53.950 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - RETURN
+22/04/2019 07:32:53.950 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - Zwalniam Connection cnn  w funkcji writeDataBaseToTable
+22/04/2019 07:32:54.449 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - ENTRY
+22/04/2019 07:32:54.449 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:32:54.449 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:32:54.464 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - RETURN
+22/04/2019 07:32:54.464 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - Zwalniam Connection cnn  w funkcji writeDataBaseToTable
+22/04/2019 07:32:54.964 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - ENTRY
+22/04/2019 07:32:54.964 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:32:54.964 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:32:54.964 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - RETURN
+22/04/2019 07:32:54.964 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - Zwalniam Connection cnn  w funkcji writeDataBaseToTable
+22/04/2019 07:32:55.478 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - ENTRY
+22/04/2019 07:32:55.510 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:32:55.510 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:32:55.510 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - RETURN
+22/04/2019 07:32:55.510 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - Zwalniam Connection cnn  w funkcji writeDataBaseToTable
+22/04/2019 07:32:55.993 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - ENTRY
+22/04/2019 07:32:56.009 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:32:56.009 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:32:56.009 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - RETURN
+22/04/2019 07:32:56.009 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - Zwalniam Connection cnn  w funkcji writeDataBaseToTable
+22/04/2019 07:32:56.508 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - ENTRY
+22/04/2019 07:32:56.508 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:32:56.508 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:32:56.524 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - RETURN
+22/04/2019 07:32:56.524 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - Zwalniam Connection cnn  w funkcji writeDataBaseToTable
+22/04/2019 07:32:57.023 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - ENTRY
+22/04/2019 07:32:57.023 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:32:57.023 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:32:57.023 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - RETURN
+22/04/2019 07:32:57.023 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - Zwalniam Connection cnn  w funkcji writeDataBaseToTable
+22/04/2019 07:32:57.538 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - ENTRY
+22/04/2019 07:32:57.538 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:32:57.538 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:32:57.538 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - RETURN
+22/04/2019 07:32:57.538 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - Zwalniam Connection cnn  w funkcji writeDataBaseToTable
+22/04/2019 07:32:58.084 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:32:58.084 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:32:58.099 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - ENTRY
+22/04/2019 07:32:58.115 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:32:58.115 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:32:58.115 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - RETURN
+22/04/2019 07:32:58.115 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - Zwalniam Connection cnn  w funkcji writeDataBaseToTable
+22/04/2019 07:32:58.583 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - ENTRY
+22/04/2019 07:32:58.583 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:32:58.583 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:32:58.598 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - RETURN
+22/04/2019 07:32:58.598 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - Zwalniam Connection cnn  w funkcji writeDataBaseToTable
+22/04/2019 07:32:59.098 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - ENTRY
+22/04/2019 07:32:59.098 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:32:59.098 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:32:59.098 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - RETURN
+22/04/2019 07:32:59.113 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - Zwalniam Connection cnn  w funkcji writeDataBaseToTable
+22/04/2019 07:32:59.612 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - ENTRY
+22/04/2019 07:32:59.628 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:32:59.628 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:32:59.628 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - RETURN
+22/04/2019 07:32:59.628 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - Zwalniam Connection cnn  w funkcji writeDataBaseToTable
+22/04/2019 07:33:00.127 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - ENTRY
+22/04/2019 07:33:00.143 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:33:00.143 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:33:00.143 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - RETURN
+22/04/2019 07:33:00.143 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - Zwalniam Connection cnn  w funkcji writeDataBaseToTable
+22/04/2019 07:33:00.642 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - ENTRY
+22/04/2019 07:33:00.642 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:33:00.642 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:33:00.658 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - RETURN
+22/04/2019 07:33:00.658 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - Zwalniam Connection cnn  w funkcji writeDataBaseToTable
+22/04/2019 07:33:01.157 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - ENTRY
+22/04/2019 07:33:01.157 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:33:01.157 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:33:01.172 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - RETURN
+22/04/2019 07:33:01.172 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - Zwalniam Connection cnn  w funkcji writeDataBaseToTable
+22/04/2019 07:33:01.672 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - ENTRY
+22/04/2019 07:33:01.687 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:33:01.687 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:33:01.687 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - RETURN
+22/04/2019 07:33:01.687 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - Zwalniam Connection cnn  w funkcji writeDataBaseToTable
+22/04/2019 07:33:02.186 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - ENTRY
+22/04/2019 07:33:02.264 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:33:02.264 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:33:02.264 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - RETURN
+22/04/2019 07:33:02.264 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - Zwalniam Connection cnn  w funkcji writeDataBaseToTable
+22/04/2019 07:33:02.701 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - ENTRY
+22/04/2019 07:33:02.717 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:33:02.717 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:33:02.717 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - RETURN
+22/04/2019 07:33:02.717 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - Zwalniam Connection cnn  w funkcji writeDataBaseToTable
+22/04/2019 07:33:03.216 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - ENTRY
+22/04/2019 07:33:03.216 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:33:03.216 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:33:03.216 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - RETURN
+22/04/2019 07:33:03.216 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - Zwalniam Connection cnn  w funkcji writeDataBaseToTable
+22/04/2019 07:33:03.731 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - ENTRY
+22/04/2019 07:33:03.778 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:33:03.778 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:33:03.778 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - RETURN
+22/04/2019 07:33:03.778 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - Zwalniam Connection cnn  w funkcji writeDataBaseToTable
+22/04/2019 07:33:04.246 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - ENTRY
+22/04/2019 07:33:04.246 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:33:04.246 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:33:04.246 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - RETURN
+22/04/2019 07:33:04.246 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - Zwalniam Connection cnn  w funkcji writeDataBaseToTable
+22/04/2019 07:33:04.760 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - ENTRY
+22/04/2019 07:33:04.776 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:33:04.776 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:33:04.776 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - RETURN
+22/04/2019 07:33:04.776 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - Zwalniam Connection cnn  w funkcji writeDataBaseToTable
+22/04/2019 07:33:05.275 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - ENTRY
+22/04/2019 07:33:05.275 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:33:05.275 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:33:05.275 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - RETURN
+22/04/2019 07:33:05.275 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - Zwalniam Connection cnn  w funkcji writeDataBaseToTable
+22/04/2019 07:33:05.790 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - ENTRY
+22/04/2019 07:33:05.790 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:33:05.790 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:33:05.790 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - RETURN
+22/04/2019 07:33:05.790 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - Zwalniam Connection cnn  w funkcji writeDataBaseToTable
+22/04/2019 07:33:06.305 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - ENTRY
+22/04/2019 07:33:06.305 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:33:06.305 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:33:06.305 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - RETURN
+22/04/2019 07:33:06.305 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - Zwalniam Connection cnn  w funkcji writeDataBaseToTable
+22/04/2019 07:33:06.820 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - ENTRY
+22/04/2019 07:33:06.866 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:33:06.866 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:33:06.866 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - RETURN
+22/04/2019 07:33:06.866 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - Zwalniam Connection cnn  w funkcji writeDataBaseToTable
+22/04/2019 07:33:07.334 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - ENTRY
+22/04/2019 07:33:07.334 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:33:07.334 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:33:07.334 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - RETURN
+22/04/2019 07:33:07.334 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - Zwalniam Connection cnn  w funkcji writeDataBaseToTable
+22/04/2019 07:33:07.849 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - ENTRY
+22/04/2019 07:33:07.880 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:33:07.880 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:33:07.912 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - RETURN
+22/04/2019 07:33:07.912 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - Zwalniam Connection cnn  w funkcji writeDataBaseToTable
+22/04/2019 07:33:08.364 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - ENTRY
+22/04/2019 07:33:08.380 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:33:08.380 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:33:08.380 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - RETURN
+22/04/2019 07:33:08.380 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - Zwalniam Connection cnn  w funkcji writeDataBaseToTable
+22/04/2019 07:33:08.879 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - ENTRY
+22/04/2019 07:33:08.879 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:33:08.879 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:33:08.879 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - RETURN
+22/04/2019 07:33:08.879 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - Zwalniam Connection cnn  w funkcji writeDataBaseToTable
+22/04/2019 07:33:09.394 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - ENTRY
+22/04/2019 07:33:09.409 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:33:09.409 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:33:09.409 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - RETURN
+22/04/2019 07:33:09.409 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - Zwalniam Connection cnn  w funkcji writeDataBaseToTable
+22/04/2019 07:33:09.909 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - ENTRY
+22/04/2019 07:33:09.909 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:33:09.909 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:33:09.909 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - RETURN
+22/04/2019 07:33:09.909 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - Zwalniam Connection cnn  w funkcji writeDataBaseToTable
+22/04/2019 07:33:10.408 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - ENTRY
+22/04/2019 07:33:10.423 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:33:10.423 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:33:10.423 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - RETURN
+22/04/2019 07:33:10.423 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - Zwalniam Connection cnn  w funkcji writeDataBaseToTable
+22/04/2019 07:33:10.923 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - ENTRY
+22/04/2019 07:33:10.938 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:33:10.938 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:33:10.938 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - RETURN
+22/04/2019 07:33:10.938 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - Zwalniam Connection cnn  w funkcji writeDataBaseToTable
+22/04/2019 07:33:11.437 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - ENTRY
+22/04/2019 07:33:11.437 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:33:11.437 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:33:11.437 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - RETURN
+22/04/2019 07:33:11.437 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - Zwalniam Connection cnn  w funkcji writeDataBaseToTable
+22/04/2019 07:33:11.952 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - ENTRY
+22/04/2019 07:33:11.952 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:33:11.952 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:33:11.952 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - RETURN
+22/04/2019 07:33:11.952 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - Zwalniam Connection cnn  w funkcji writeDataBaseToTable
+22/04/2019 07:33:12.454 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - ENTRY
+22/04/2019 07:33:12.470 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:33:12.470 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:33:12.470 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - RETURN
+22/04/2019 07:33:12.470 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - Zwalniam Connection cnn  w funkcji writeDataBaseToTable
+22/04/2019 07:33:12.969 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - ENTRY
+22/04/2019 07:33:12.969 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:33:12.969 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:33:12.985 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - RETURN
+22/04/2019 07:33:12.985 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - Zwalniam Connection cnn  w funkcji writeDataBaseToTable
+22/04/2019 07:33:13.484 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - ENTRY
+22/04/2019 07:33:13.484 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:33:13.484 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:33:13.500 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - RETURN
+22/04/2019 07:33:13.500 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - Zwalniam Connection cnn  w funkcji writeDataBaseToTable
+22/04/2019 07:33:13.999 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - ENTRY
+22/04/2019 07:33:13.999 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:33:13.999 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:33:13.999 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - RETURN
+22/04/2019 07:33:13.999 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - Zwalniam Connection cnn  w funkcji writeDataBaseToTable
+22/04/2019 07:33:14.514 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - ENTRY
+22/04/2019 07:33:14.529 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:33:14.529 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:33:14.529 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - RETURN
+22/04/2019 07:33:14.529 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - Zwalniam Connection cnn  w funkcji writeDataBaseToTable
+22/04/2019 07:33:15.028 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - ENTRY
+22/04/2019 07:33:15.044 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:33:15.044 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:33:15.044 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - RETURN
+22/04/2019 07:33:15.044 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - Zwalniam Connection cnn  w funkcji writeDataBaseToTable
+22/04/2019 07:33:15.543 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - ENTRY
+22/04/2019 07:33:15.543 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:33:15.543 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:33:15.543 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - RETURN
+22/04/2019 07:33:15.543 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - Zwalniam Connection cnn  w funkcji writeDataBaseToTable
+22/04/2019 07:33:16.058 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - ENTRY
+22/04/2019 07:33:16.074 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:33:16.074 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:33:16.074 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - RETURN
+22/04/2019 07:33:16.074 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - Zwalniam Connection cnn  w funkcji writeDataBaseToTable
+22/04/2019 07:33:16.573 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - ENTRY
+22/04/2019 07:33:16.573 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:33:16.573 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:33:16.573 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - RETURN
+22/04/2019 07:33:16.573 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - Zwalniam Connection cnn  w funkcji writeDataBaseToTable
+22/04/2019 07:33:17.088 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - ENTRY
+22/04/2019 07:33:17.088 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:33:17.088 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:33:17.103 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - RETURN
+22/04/2019 07:33:17.103 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - Zwalniam Connection cnn  w funkcji writeDataBaseToTable
+22/04/2019 07:33:17.602 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - ENTRY
+22/04/2019 07:33:17.602 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:33:17.602 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:33:17.602 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - RETURN
+22/04/2019 07:33:17.618 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - Zwalniam Connection cnn  w funkcji writeDataBaseToTable
+22/04/2019 07:33:18.117 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - ENTRY
+22/04/2019 07:33:18.117 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:33:18.117 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:33:18.117 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - RETURN
+22/04/2019 07:33:18.117 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - Zwalniam Connection cnn  w funkcji writeDataBaseToTable
+22/04/2019 07:33:18.632 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - ENTRY
+22/04/2019 07:33:18.632 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:33:18.632 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:33:18.632 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - RETURN
+22/04/2019 07:33:18.632 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - Zwalniam Connection cnn  w funkcji writeDataBaseToTable
+22/04/2019 07:33:19.147 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - ENTRY
+22/04/2019 07:33:19.147 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:33:19.147 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:33:19.162 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - RETURN
+22/04/2019 07:33:19.162 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - Zwalniam Connection cnn  w funkcji writeDataBaseToTable
+22/04/2019 07:33:19.662 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - ENTRY
+22/04/2019 07:33:19.662 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:33:19.662 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:33:19.677 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - RETURN
+22/04/2019 07:33:19.677 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - Zwalniam Connection cnn  w funkcji writeDataBaseToTable
+22/04/2019 07:33:20.176 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - ENTRY
+22/04/2019 07:33:20.176 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:33:20.176 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:33:20.192 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - RETURN
+22/04/2019 07:33:20.192 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - Zwalniam Connection cnn  w funkcji writeDataBaseToTable
+22/04/2019 07:33:20.691 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - ENTRY
+22/04/2019 07:33:20.691 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:33:20.691 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:33:20.691 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - RETURN
+22/04/2019 07:33:20.691 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - Zwalniam Connection cnn  w funkcji writeDataBaseToTable
+22/04/2019 07:33:21.206 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - ENTRY
+22/04/2019 07:33:21.206 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:33:21.206 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:33:21.206 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - RETURN
+22/04/2019 07:33:21.206 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - Zwalniam Connection cnn  w funkcji writeDataBaseToTable
+22/04/2019 07:33:21.721 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - ENTRY
+22/04/2019 07:33:21.721 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:33:21.721 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:33:21.721 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - RETURN
+22/04/2019 07:33:21.721 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - Zwalniam Connection cnn  w funkcji writeDataBaseToTable
+22/04/2019 07:33:22.236 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - ENTRY
+22/04/2019 07:33:22.251 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:33:22.251 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:33:22.251 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - RETURN
+22/04/2019 07:33:22.251 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - Zwalniam Connection cnn  w funkcji writeDataBaseToTable
+22/04/2019 07:33:22.750 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - ENTRY
+22/04/2019 07:33:22.750 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:33:22.750 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:33:22.750 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - RETURN
+22/04/2019 07:33:22.750 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - Zwalniam Connection cnn  w funkcji writeDataBaseToTable
+22/04/2019 07:33:23.265 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - ENTRY
+22/04/2019 07:33:23.265 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:33:23.265 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:33:23.281 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - RETURN
+22/04/2019 07:33:23.281 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - Zwalniam Connection cnn  w funkcji writeDataBaseToTable
+22/04/2019 07:33:23.780 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - ENTRY
+22/04/2019 07:33:23.780 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:33:23.780 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:33:23.780 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - RETURN
+22/04/2019 07:33:23.780 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - Zwalniam Connection cnn  w funkcji writeDataBaseToTable
+22/04/2019 07:33:24.282 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - ENTRY
+22/04/2019 07:33:24.282 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:33:24.282 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:33:24.282 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - RETURN
+22/04/2019 07:33:24.282 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - Zwalniam Connection cnn  w funkcji writeDataBaseToTable
+22/04/2019 07:33:24.796 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - ENTRY
+22/04/2019 07:33:24.796 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:33:24.796 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:33:24.796 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - RETURN
+22/04/2019 07:33:24.796 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - Zwalniam Connection cnn  w funkcji writeDataBaseToTable
+22/04/2019 07:33:25.311 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - ENTRY
+22/04/2019 07:33:25.311 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:33:25.311 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:33:25.311 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - RETURN
+22/04/2019 07:33:25.311 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - Zwalniam Connection cnn  w funkcji writeDataBaseToTable
+22/04/2019 07:33:25.826 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - ENTRY
+22/04/2019 07:33:25.826 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:33:25.826 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:33:25.826 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - RETURN
+22/04/2019 07:33:25.826 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - Zwalniam Connection cnn  w funkcji writeDataBaseToTable
+22/04/2019 07:33:26.341 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - ENTRY
+22/04/2019 07:33:26.356 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:33:26.356 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:33:26.356 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - RETURN
+22/04/2019 07:33:26.356 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - Zwalniam Connection cnn  w funkcji writeDataBaseToTable
+22/04/2019 07:33:26.684 PM - [DatabaseLogger][pDataBase1.DAOfunctions.InsertEPC] - [FINER] - ENTRY
+22/04/2019 07:33:26.684 PM - [DatabaseLogger][pDataBase1.DAOfunctions.InsertEPC] - [FINEST] - Tablica :etykiety
+22/04/2019 07:33:26.746 PM - [DatabaseLogger][pDataBase1.DAOfunctions.InsertEPC] - [FINER] - RETURN
+22/04/2019 07:33:26.746 PM - [DatabaseLogger][pDataBase1.DAOfunctions.InsertEPC] - [FINER] - ENTRY
+22/04/2019 07:33:26.746 PM - [DatabaseLogger][pDataBase1.DAOfunctions.InsertEPC] - [FINEST] - Tablica :etykiety
+22/04/2019 07:33:26.746 PM - [DatabaseLogger][pDataBase1.DAOfunctions.InsertEPC] - [FINER] - RETURN
+22/04/2019 07:33:26.746 PM - [DatabaseLogger][pDataBase1.DAOfunctions.InsertEPC] - [FINER] - ENTRY
+22/04/2019 07:33:26.746 PM - [DatabaseLogger][pDataBase1.DAOfunctions.InsertEPC] - [FINEST] - Tablica :etykiety
+22/04/2019 07:33:26.746 PM - [DatabaseLogger][pDataBase1.DAOfunctions.InsertEPC] - [FINER] - RETURN
+22/04/2019 07:33:26.746 PM - [DatabaseLogger][pDataBase1.DAOfunctions.InsertEPC] - [FINER] - ENTRY
+22/04/2019 07:33:26.746 PM - [DatabaseLogger][pDataBase1.DAOfunctions.InsertEPC] - [FINEST] - Tablica :etykiety
+22/04/2019 07:33:26.762 PM - [DatabaseLogger][pDataBase1.DAOfunctions.InsertEPC] - [FINER] - RETURN
+22/04/2019 07:33:26.762 PM - [DatabaseLogger][pDataBase1.DAOfunctions.InsertEPC] - [FINER] - ENTRY
+22/04/2019 07:33:26.762 PM - [DatabaseLogger][pDataBase1.DAOfunctions.InsertEPC] - [FINEST] - Tablica :etykiety
+22/04/2019 07:33:26.762 PM - [DatabaseLogger][pDataBase1.DAOfunctions.InsertEPC] - [FINER] - RETURN
+22/04/2019 07:33:26.762 PM - [DatabaseLogger][pDataBase1.DAOfunctions.InsertEPC] - [FINER] - ENTRY
+22/04/2019 07:33:26.762 PM - [DatabaseLogger][pDataBase1.DAOfunctions.InsertEPC] - [FINEST] - Tablica :etykiety
+22/04/2019 07:33:26.762 PM - [DatabaseLogger][pDataBase1.DAOfunctions.InsertEPC] - [FINER] - RETURN
+22/04/2019 07:33:26.762 PM - [DatabaseLogger][pDataBase1.DAOfunctions.InsertEPC] - [FINER] - ENTRY
+22/04/2019 07:33:26.762 PM - [DatabaseLogger][pDataBase1.DAOfunctions.InsertEPC] - [FINEST] - Tablica :etykiety
+22/04/2019 07:33:26.778 PM - [DatabaseLogger][pDataBase1.DAOfunctions.InsertEPC] - [FINER] - RETURN
+22/04/2019 07:33:26.778 PM - [DatabaseLogger][pDataBase1.DAOfunctions.InsertEPC] - [FINER] - ENTRY
+22/04/2019 07:33:26.778 PM - [DatabaseLogger][pDataBase1.DAOfunctions.InsertEPC] - [FINEST] - Tablica :etykiety
+22/04/2019 07:33:26.778 PM - [DatabaseLogger][pDataBase1.DAOfunctions.InsertEPC] - [FINER] - RETURN
+22/04/2019 07:33:26.778 PM - [DatabaseLogger][pDataBase1.DAOfunctions.InsertEPC] - [FINER] - ENTRY
+22/04/2019 07:33:26.778 PM - [DatabaseLogger][pDataBase1.DAOfunctions.InsertEPC] - [FINEST] - Tablica :etykiety
+22/04/2019 07:33:26.778 PM - [DatabaseLogger][pDataBase1.DAOfunctions.InsertEPC] - [FINER] - RETURN
+22/04/2019 07:33:26.778 PM - [DatabaseLogger][pDataBase1.DAOfunctions.InsertEPC] - [FINER] - ENTRY
+22/04/2019 07:33:26.778 PM - [DatabaseLogger][pDataBase1.DAOfunctions.InsertEPC] - [FINEST] - Tablica :etykiety
+22/04/2019 07:33:26.778 PM - [DatabaseLogger][pDataBase1.DAOfunctions.InsertEPC] - [FINER] - RETURN
+22/04/2019 07:33:26.778 PM - [DatabaseLogger][pDataBase1.DAOfunctions.InsertEPC] - [FINER] - ENTRY
+22/04/2019 07:33:26.778 PM - [DatabaseLogger][pDataBase1.DAOfunctions.InsertEPC] - [FINEST] - Tablica :etykiety
+22/04/2019 07:33:26.778 PM - [DatabaseLogger][pDataBase1.DAOfunctions.InsertEPC] - [FINER] - RETURN
+22/04/2019 07:33:26.778 PM - [DatabaseLogger][pDataBase1.DAOfunctions.InsertEPC] - [FINER] - ENTRY
+22/04/2019 07:33:26.778 PM - [DatabaseLogger][pDataBase1.DAOfunctions.InsertEPC] - [FINEST] - Tablica :etykiety
+22/04/2019 07:33:26.778 PM - [DatabaseLogger][pDataBase1.DAOfunctions.InsertEPC] - [FINER] - RETURN
+22/04/2019 07:33:26.778 PM - [DatabaseLogger][pDataBase1.DAOfunctions.InsertEPC] - [FINER] - ENTRY
+22/04/2019 07:33:26.778 PM - [DatabaseLogger][pDataBase1.DAOfunctions.InsertEPC] - [FINEST] - Tablica :etykiety
+22/04/2019 07:33:26.778 PM - [DatabaseLogger][pDataBase1.DAOfunctions.InsertEPC] - [FINER] - RETURN
+22/04/2019 07:33:26.778 PM - [DatabaseLogger][pDataBase1.DAOfunctions.InsertEPC] - [FINER] - ENTRY
+22/04/2019 07:33:26.778 PM - [DatabaseLogger][pDataBase1.DAOfunctions.InsertEPC] - [FINEST] - Tablica :etykiety
+22/04/2019 07:33:26.778 PM - [DatabaseLogger][pDataBase1.DAOfunctions.InsertEPC] - [FINER] - RETURN
+22/04/2019 07:33:26.778 PM - [DatabaseLogger][pDataBase1.DAOfunctions.InsertEPC] - [FINER] - ENTRY
+22/04/2019 07:33:26.778 PM - [DatabaseLogger][pDataBase1.DAOfunctions.InsertEPC] - [FINEST] - Tablica :etykiety
+22/04/2019 07:33:26.778 PM - [DatabaseLogger][pDataBase1.DAOfunctions.InsertEPC] - [FINER] - RETURN
+22/04/2019 07:33:26.793 PM - [DatabaseLogger][pDataBase1.DAOfunctions.InsertEPC] - [FINER] - ENTRY
+22/04/2019 07:33:26.793 PM - [DatabaseLogger][pDataBase1.DAOfunctions.InsertEPC] - [FINEST] - Tablica :etykiety
+22/04/2019 07:33:26.793 PM - [DatabaseLogger][pDataBase1.DAOfunctions.InsertEPC] - [FINER] - RETURN
+22/04/2019 07:33:26.793 PM - [DatabaseLogger][pDataBase1.DAOfunctions.InsertEPC] - [FINER] - ENTRY
+22/04/2019 07:33:26.793 PM - [DatabaseLogger][pDataBase1.DAOfunctions.InsertEPC] - [FINEST] - Tablica :etykiety
+22/04/2019 07:33:26.793 PM - [DatabaseLogger][pDataBase1.DAOfunctions.InsertEPC] - [FINER] - RETURN
+22/04/2019 07:33:26.793 PM - [DatabaseLogger][pDataBase1.DAOfunctions.InsertEPC] - [FINER] - ENTRY
+22/04/2019 07:33:26.793 PM - [DatabaseLogger][pDataBase1.DAOfunctions.InsertEPC] - [FINEST] - Tablica :etykiety
+22/04/2019 07:33:26.793 PM - [DatabaseLogger][pDataBase1.DAOfunctions.InsertEPC] - [FINER] - RETURN
+22/04/2019 07:33:26.793 PM - [DatabaseLogger][pDataBase1.DAOfunctions.InsertEPC] - [FINER] - ENTRY
+22/04/2019 07:33:26.793 PM - [DatabaseLogger][pDataBase1.DAOfunctions.InsertEPC] - [FINEST] - Tablica :etykiety
+22/04/2019 07:33:26.793 PM - [DatabaseLogger][pDataBase1.DAOfunctions.InsertEPC] - [FINER] - RETURN
+22/04/2019 07:33:26.793 PM - [DatabaseLogger][pDataBase1.DAOfunctions.InsertEPC] - [FINER] - ENTRY
+22/04/2019 07:33:26.793 PM - [DatabaseLogger][pDataBase1.DAOfunctions.InsertEPC] - [FINEST] - Tablica :etykiety
+22/04/2019 07:33:26.793 PM - [DatabaseLogger][pDataBase1.DAOfunctions.InsertEPC] - [FINER] - RETURN
+22/04/2019 07:33:26.793 PM - [DatabaseLogger][pDataBase1.DAOfunctions.InsertEPC] - [FINER] - ENTRY
+22/04/2019 07:33:26.793 PM - [DatabaseLogger][pDataBase1.DAOfunctions.InsertEPC] - [FINEST] - Tablica :etykiety
+22/04/2019 07:33:26.809 PM - [DatabaseLogger][pDataBase1.DAOfunctions.InsertEPC] - [FINER] - RETURN
+22/04/2019 07:33:26.809 PM - [DatabaseLogger][pDataBase1.DAOfunctions.InsertEPC] - [FINER] - ENTRY
+22/04/2019 07:33:26.809 PM - [DatabaseLogger][pDataBase1.DAOfunctions.InsertEPC] - [FINEST] - Tablica :etykiety
+22/04/2019 07:33:26.809 PM - [DatabaseLogger][pDataBase1.DAOfunctions.InsertEPC] - [FINER] - RETURN
+22/04/2019 07:33:26.809 PM - [DatabaseLogger][pDataBase1.DAOfunctions.InsertEPC] - [FINER] - ENTRY
+22/04/2019 07:33:26.809 PM - [DatabaseLogger][pDataBase1.DAOfunctions.InsertEPC] - [FINEST] - Tablica :etykiety
+22/04/2019 07:33:26.809 PM - [DatabaseLogger][pDataBase1.DAOfunctions.InsertEPC] - [FINER] - RETURN
+22/04/2019 07:33:26.809 PM - [DatabaseLogger][pDataBase1.DAOfunctions.InsertEPC] - [FINER] - ENTRY
+22/04/2019 07:33:26.809 PM - [DatabaseLogger][pDataBase1.DAOfunctions.InsertEPC] - [FINEST] - Tablica :etykiety
+22/04/2019 07:33:26.809 PM - [DatabaseLogger][pDataBase1.DAOfunctions.InsertEPC] - [FINER] - RETURN
+22/04/2019 07:33:26.809 PM - [DatabaseLogger][pDataBase1.DAOfunctions.InsertEPC] - [FINER] - ENTRY
+22/04/2019 07:33:26.809 PM - [DatabaseLogger][pDataBase1.DAOfunctions.InsertEPC] - [FINEST] - Tablica :etykiety
+22/04/2019 07:33:26.809 PM - [DatabaseLogger][pDataBase1.DAOfunctions.InsertEPC] - [FINER] - RETURN
+22/04/2019 07:33:26.809 PM - [DatabaseLogger][pDataBase1.DAOfunctions.InsertEPC] - [FINER] - ENTRY
+22/04/2019 07:33:26.809 PM - [DatabaseLogger][pDataBase1.DAOfunctions.InsertEPC] - [FINEST] - Tablica :etykiety
+22/04/2019 07:33:26.809 PM - [DatabaseLogger][pDataBase1.DAOfunctions.InsertEPC] - [FINER] - RETURN
+22/04/2019 07:33:26.809 PM - [DatabaseLogger][pDataBase1.DAOfunctions.InsertEPC] - [FINER] - ENTRY
+22/04/2019 07:33:26.809 PM - [DatabaseLogger][pDataBase1.DAOfunctions.InsertEPC] - [FINEST] - Tablica :etykiety
+22/04/2019 07:33:26.824 PM - [DatabaseLogger][pDataBase1.DAOfunctions.InsertEPC] - [FINER] - RETURN
+22/04/2019 07:33:26.824 PM - [DatabaseLogger][pDataBase1.DAOfunctions.InsertEPC] - [FINER] - ENTRY
+22/04/2019 07:33:26.824 PM - [DatabaseLogger][pDataBase1.DAOfunctions.InsertEPC] - [FINEST] - Tablica :etykiety
+22/04/2019 07:33:26.824 PM - [DatabaseLogger][pDataBase1.DAOfunctions.InsertEPC] - [FINER] - RETURN
+22/04/2019 07:33:26.824 PM - [DatabaseLogger][pDataBase1.DAOfunctions.InsertEPC] - [FINER] - ENTRY
+22/04/2019 07:33:26.824 PM - [DatabaseLogger][pDataBase1.DAOfunctions.InsertEPC] - [FINEST] - Tablica :etykiety
+22/04/2019 07:33:26.824 PM - [DatabaseLogger][pDataBase1.DAOfunctions.InsertEPC] - [FINER] - RETURN
+22/04/2019 07:33:26.824 PM - [DatabaseLogger][pDataBase1.DAOfunctions.InsertEPC] - [FINER] - ENTRY
+22/04/2019 07:33:26.824 PM - [DatabaseLogger][pDataBase1.DAOfunctions.InsertEPC] - [FINEST] - Tablica :etykiety
+22/04/2019 07:33:26.824 PM - [DatabaseLogger][pDataBase1.DAOfunctions.InsertEPC] - [FINER] - RETURN
+22/04/2019 07:33:26.824 PM - [DatabaseLogger][pDataBase1.DAOfunctions.InsertEPC] - [FINER] - ENTRY
+22/04/2019 07:33:26.824 PM - [DatabaseLogger][pDataBase1.DAOfunctions.InsertEPC] - [FINEST] - Tablica :etykiety
+22/04/2019 07:33:26.824 PM - [DatabaseLogger][pDataBase1.DAOfunctions.InsertEPC] - [FINER] - RETURN
+22/04/2019 07:33:26.824 PM - [DatabaseLogger][pDataBase1.DAOfunctions.InsertEPC] - [FINER] - ENTRY
+22/04/2019 07:33:26.824 PM - [DatabaseLogger][pDataBase1.DAOfunctions.InsertEPC] - [FINEST] - Tablica :etykiety
+22/04/2019 07:33:26.824 PM - [DatabaseLogger][pDataBase1.DAOfunctions.InsertEPC] - [FINER] - RETURN
+22/04/2019 07:33:26.824 PM - [DatabaseLogger][pDataBase1.DAOfunctions.InsertEPC] - [FINER] - ENTRY
+22/04/2019 07:33:26.824 PM - [DatabaseLogger][pDataBase1.DAOfunctions.InsertEPC] - [FINEST] - Tablica :etykiety
+22/04/2019 07:33:26.824 PM - [DatabaseLogger][pDataBase1.DAOfunctions.InsertEPC] - [FINER] - RETURN
+22/04/2019 07:33:26.824 PM - [DatabaseLogger][pDataBase1.DAOfunctions.InsertEPC] - [FINER] - ENTRY
+22/04/2019 07:33:26.824 PM - [DatabaseLogger][pDataBase1.DAOfunctions.InsertEPC] - [FINEST] - Tablica :etykiety
+22/04/2019 07:33:26.824 PM - [DatabaseLogger][pDataBase1.DAOfunctions.InsertEPC] - [FINER] - RETURN
+22/04/2019 07:33:26.824 PM - [DatabaseLogger][pDataBase1.DAOfunctions.InsertEPC] - [FINER] - ENTRY
+22/04/2019 07:33:26.824 PM - [DatabaseLogger][pDataBase1.DAOfunctions.InsertEPC] - [FINEST] - Tablica :etykiety
+22/04/2019 07:33:26.840 PM - [DatabaseLogger][pDataBase1.DAOfunctions.InsertEPC] - [FINER] - RETURN
+22/04/2019 07:33:26.840 PM - [DatabaseLogger][pDataBase1.DAOfunctions.InsertEPC] - [FINER] - ENTRY
+22/04/2019 07:33:26.840 PM - [DatabaseLogger][pDataBase1.DAOfunctions.InsertEPC] - [FINEST] - Tablica :etykiety
+22/04/2019 07:33:26.840 PM - [DatabaseLogger][pDataBase1.DAOfunctions.InsertEPC] - [FINER] - RETURN
+22/04/2019 07:33:26.840 PM - [DatabaseLogger][pDataBase1.DAOfunctions.InsertEPC] - [FINER] - ENTRY
+22/04/2019 07:33:26.840 PM - [DatabaseLogger][pDataBase1.DAOfunctions.InsertEPC] - [FINEST] - Tablica :etykiety
+22/04/2019 07:33:26.840 PM - [DatabaseLogger][pDataBase1.DAOfunctions.InsertEPC] - [FINER] - RETURN
+22/04/2019 07:33:26.840 PM - [DatabaseLogger][pDataBase1.DAOfunctions.InsertEPC] - [FINER] - ENTRY
+22/04/2019 07:33:26.840 PM - [DatabaseLogger][pDataBase1.DAOfunctions.InsertEPC] - [FINEST] - Tablica :etykiety
+22/04/2019 07:33:26.840 PM - [DatabaseLogger][pDataBase1.DAOfunctions.InsertEPC] - [FINER] - RETURN
+22/04/2019 07:33:26.840 PM - [DatabaseLogger][pDataBase1.DAOfunctions.InsertEPC] - [FINER] - ENTRY
+22/04/2019 07:33:26.840 PM - [DatabaseLogger][pDataBase1.DAOfunctions.InsertEPC] - [FINEST] - Tablica :etykiety
+22/04/2019 07:33:26.840 PM - [DatabaseLogger][pDataBase1.DAOfunctions.InsertEPC] - [FINER] - RETURN
+22/04/2019 07:33:26.840 PM - [DatabaseLogger][pDataBase1.DAOfunctions.InsertEPC] - [FINER] - ENTRY
+22/04/2019 07:33:26.840 PM - [DatabaseLogger][pDataBase1.DAOfunctions.InsertEPC] - [FINEST] - Tablica :etykiety
+22/04/2019 07:33:26.840 PM - [DatabaseLogger][pDataBase1.DAOfunctions.InsertEPC] - [FINER] - RETURN
+22/04/2019 07:33:26.840 PM - [DatabaseLogger][pDataBase1.DAOfunctions.InsertEPC] - [FINER] - ENTRY
+22/04/2019 07:33:26.840 PM - [DatabaseLogger][pDataBase1.DAOfunctions.InsertEPC] - [FINEST] - Tablica :etykiety
+22/04/2019 07:33:26.840 PM - [DatabaseLogger][pDataBase1.DAOfunctions.InsertEPC] - [FINER] - RETURN
+22/04/2019 07:33:26.840 PM - [DatabaseLogger][pDataBase1.DAOfunctions.InsertEPC] - [FINER] - ENTRY
+22/04/2019 07:33:26.840 PM - [DatabaseLogger][pDataBase1.DAOfunctions.InsertEPC] - [FINEST] - Tablica :etykiety
+22/04/2019 07:33:26.840 PM - [DatabaseLogger][pDataBase1.DAOfunctions.InsertEPC] - [FINER] - RETURN
+22/04/2019 07:33:26.856 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - ENTRY
+22/04/2019 07:33:26.871 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:33:26.871 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:33:26.871 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - RETURN
+22/04/2019 07:33:26.871 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - Zwalniam Connection cnn  w funkcji writeDataBaseToTable
+22/04/2019 07:33:27.370 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - ENTRY
+22/04/2019 07:33:27.386 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:33:27.386 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:33:27.402 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - RETURN
+22/04/2019 07:33:27.402 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - Zwalniam Connection cnn  w funkcji writeDataBaseToTable
+22/04/2019 07:33:27.885 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - ENTRY
+22/04/2019 07:33:27.885 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:33:27.885 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:33:27.901 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - RETURN
+22/04/2019 07:33:27.901 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - Zwalniam Connection cnn  w funkcji writeDataBaseToTable
+22/04/2019 07:33:28.400 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - ENTRY
+22/04/2019 07:33:28.431 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:33:28.431 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:33:28.431 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - RETURN
+22/04/2019 07:33:28.431 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - Zwalniam Connection cnn  w funkcji writeDataBaseToTable
+22/04/2019 07:33:28.915 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - ENTRY
+22/04/2019 07:33:28.915 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:33:28.915 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:33:28.930 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - RETURN
+22/04/2019 07:33:28.930 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - Zwalniam Connection cnn  w funkcji writeDataBaseToTable
+22/04/2019 07:33:29.430 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - ENTRY
+22/04/2019 07:33:29.445 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:33:29.445 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:33:29.461 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - RETURN
+22/04/2019 07:33:29.461 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - Zwalniam Connection cnn  w funkcji writeDataBaseToTable
+22/04/2019 07:33:29.944 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - ENTRY
+22/04/2019 07:33:29.976 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:33:29.976 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:33:29.976 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - RETURN
+22/04/2019 07:33:29.976 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - Zwalniam Connection cnn  w funkcji writeDataBaseToTable
+22/04/2019 07:33:30.459 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - ENTRY
+22/04/2019 07:33:30.459 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:33:30.459 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:33:30.459 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - RETURN
+22/04/2019 07:33:30.459 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - Zwalniam Connection cnn  w funkcji writeDataBaseToTable
+22/04/2019 07:33:30.974 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - ENTRY
+22/04/2019 07:33:30.974 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:33:30.974 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:33:30.990 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - RETURN
+22/04/2019 07:33:30.990 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - Zwalniam Connection cnn  w funkcji writeDataBaseToTable
+22/04/2019 07:33:31.489 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - ENTRY
+22/04/2019 07:33:31.489 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:33:31.489 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:33:31.504 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - RETURN
+22/04/2019 07:33:31.504 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - Zwalniam Connection cnn  w funkcji writeDataBaseToTable
+22/04/2019 07:33:32.004 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - ENTRY
+22/04/2019 07:33:32.004 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:33:32.004 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:33:32.019 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - RETURN
+22/04/2019 07:33:32.019 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - Zwalniam Connection cnn  w funkcji writeDataBaseToTable
+22/04/2019 07:33:32.518 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - ENTRY
+22/04/2019 07:33:32.518 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:33:32.518 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:33:32.534 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - RETURN
+22/04/2019 07:33:32.534 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - Zwalniam Connection cnn  w funkcji writeDataBaseToTable
+22/04/2019 07:33:33.033 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - ENTRY
+22/04/2019 07:33:33.033 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:33:33.033 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:33:33.033 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - RETURN
+22/04/2019 07:33:33.033 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - Zwalniam Connection cnn  w funkcji writeDataBaseToTable
+22/04/2019 07:33:33.548 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - ENTRY
+22/04/2019 07:33:33.548 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:33:33.548 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:33:33.548 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - RETURN
+22/04/2019 07:33:33.548 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - Zwalniam Connection cnn  w funkcji writeDataBaseToTable
+22/04/2019 07:33:34.063 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - ENTRY
+22/04/2019 07:33:34.063 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:33:34.063 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:33:34.063 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - RETURN
+22/04/2019 07:33:34.063 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - Zwalniam Connection cnn  w funkcji writeDataBaseToTable
+22/04/2019 07:33:34.578 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - ENTRY
+22/04/2019 07:33:34.578 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:33:34.578 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:33:34.609 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - RETURN
+22/04/2019 07:33:34.609 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - Zwalniam Connection cnn  w funkcji writeDataBaseToTable
+22/04/2019 07:33:35.092 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - ENTRY
+22/04/2019 07:33:35.092 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:33:35.092 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:33:35.108 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - RETURN
+22/04/2019 07:33:35.108 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - Zwalniam Connection cnn  w funkcji writeDataBaseToTable
+22/04/2019 07:33:35.607 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - ENTRY
+22/04/2019 07:33:35.607 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:33:35.607 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:33:35.607 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - RETURN
+22/04/2019 07:33:35.607 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - Zwalniam Connection cnn  w funkcji writeDataBaseToTable
+22/04/2019 07:33:36.122 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - ENTRY
+22/04/2019 07:33:36.122 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:33:36.122 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:33:36.138 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - RETURN
+22/04/2019 07:33:36.138 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - Zwalniam Connection cnn  w funkcji writeDataBaseToTable
+22/04/2019 07:33:36.637 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - ENTRY
+22/04/2019 07:33:36.652 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:33:36.652 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:33:36.668 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - RETURN
+22/04/2019 07:33:36.668 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - Zwalniam Connection cnn  w funkcji writeDataBaseToTable
+22/04/2019 07:33:37.152 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - ENTRY
+22/04/2019 07:33:37.183 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:33:37.183 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:33:37.183 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - RETURN
+22/04/2019 07:33:37.183 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - Zwalniam Connection cnn  w funkcji writeDataBaseToTable
+22/04/2019 07:33:37.666 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - ENTRY
+22/04/2019 07:33:37.666 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:33:37.666 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:33:37.682 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - RETURN
+22/04/2019 07:33:37.682 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - Zwalniam Connection cnn  w funkcji writeDataBaseToTable
+22/04/2019 07:33:38.181 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - ENTRY
+22/04/2019 07:33:38.181 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:33:38.181 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:33:38.181 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - RETURN
+22/04/2019 07:33:38.181 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - Zwalniam Connection cnn  w funkcji writeDataBaseToTable
+22/04/2019 07:33:38.696 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - ENTRY
+22/04/2019 07:33:38.696 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:33:38.696 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:33:38.712 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - RETURN
+22/04/2019 07:33:38.712 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - Zwalniam Connection cnn  w funkcji writeDataBaseToTable
+22/04/2019 07:33:39.211 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - ENTRY
+22/04/2019 07:33:39.211 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:33:39.211 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:33:39.211 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - RETURN
+22/04/2019 07:33:39.211 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - Zwalniam Connection cnn  w funkcji writeDataBaseToTable
+22/04/2019 07:33:39.726 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - ENTRY
+22/04/2019 07:33:39.726 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:33:39.726 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:33:39.726 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - RETURN
+22/04/2019 07:33:39.726 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - Zwalniam Connection cnn  w funkcji writeDataBaseToTable
+22/04/2019 07:33:40.240 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - ENTRY
+22/04/2019 07:33:40.240 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:33:40.240 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:33:40.240 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - RETURN
+22/04/2019 07:33:40.240 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - Zwalniam Connection cnn  w funkcji writeDataBaseToTable
+22/04/2019 07:33:40.755 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - ENTRY
+22/04/2019 07:33:40.755 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:33:40.755 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:33:40.771 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - RETURN
+22/04/2019 07:33:40.771 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - Zwalniam Connection cnn  w funkcji writeDataBaseToTable
+22/04/2019 07:33:41.270 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - ENTRY
+22/04/2019 07:33:41.270 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:33:41.270 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:33:41.286 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - RETURN
+22/04/2019 07:33:41.286 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - Zwalniam Connection cnn  w funkcji writeDataBaseToTable
+22/04/2019 07:33:41.785 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - ENTRY
+22/04/2019 07:33:41.785 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:33:41.785 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:33:41.800 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - RETURN
+22/04/2019 07:33:41.800 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - Zwalniam Connection cnn  w funkcji writeDataBaseToTable
+22/04/2019 07:33:42.300 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - ENTRY
+22/04/2019 07:33:42.300 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:33:42.300 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:33:42.315 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - RETURN
+22/04/2019 07:33:42.315 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - Zwalniam Connection cnn  w funkcji writeDataBaseToTable
+22/04/2019 07:33:42.814 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - ENTRY
+22/04/2019 07:33:42.814 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:33:42.814 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:33:42.814 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - RETURN
+22/04/2019 07:33:42.814 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - Zwalniam Connection cnn  w funkcji writeDataBaseToTable
+22/04/2019 07:33:43.329 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - ENTRY
+22/04/2019 07:33:43.329 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:33:43.329 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:33:43.329 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - RETURN
+22/04/2019 07:33:43.329 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - Zwalniam Connection cnn  w funkcji writeDataBaseToTable
+22/04/2019 07:33:43.844 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - ENTRY
+22/04/2019 07:33:43.844 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:33:43.844 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:33:43.844 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - RETURN
+22/04/2019 07:33:43.844 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - Zwalniam Connection cnn  w funkcji writeDataBaseToTable
+22/04/2019 07:33:44.359 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - ENTRY
+22/04/2019 07:33:44.390 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:33:44.390 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:33:44.390 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - RETURN
+22/04/2019 07:33:44.390 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - Zwalniam Connection cnn  w funkcji writeDataBaseToTable
+22/04/2019 07:33:44.874 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - ENTRY
+22/04/2019 07:33:44.874 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:33:44.874 PM - [DataBaseConnectionClassLoaderName][StaticConnectToDatabaseMySQL.ConnectToDataBase] - [SEVERE] - Connection to database is established
+22/04/2019 07:33:44.874 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - RETURN
+22/04/2019 07:33:44.874 PM - [MainWindowLogger][MainProgram.writeDataBaseToTable] - [FINER] - Zwalniam Connection cnn  w funkcji writeDataBaseToTable
